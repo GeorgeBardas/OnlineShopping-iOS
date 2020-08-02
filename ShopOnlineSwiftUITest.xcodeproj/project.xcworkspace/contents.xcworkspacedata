@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:OnlineShopping.xcodeproj">
+      location = "self:ShopOnlineSwiftUITest.xcodeproj">
    </FileRef>
 </Workspace>

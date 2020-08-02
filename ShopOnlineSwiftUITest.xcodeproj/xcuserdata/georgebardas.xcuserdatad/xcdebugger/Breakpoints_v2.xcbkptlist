@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FB0B979-3C4A-4304-B5E5-B9F4E5CE1A11"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "428755F1-F427-4EA8-B04A-B3AE0DD8A2EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopOnlineSwiftUITest/Models/Product.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getProducts(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "369D6EDF-B54F-48AA-84F9-DEE05C4ED11B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopOnlineSwiftUITest/Models/Product.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getProducts(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "369D6EDF-B54F-48AA-84F9-DEE05C4ED11B - 7f21866e794c7d2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopOnlineSwiftUITest.ProductApi.getProducts(completionHandler: (Swift.Array&lt;ShopOnlineSwiftUITest.Product&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ShopOnlineSwiftUITest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgebardas/Documents/Projects/iOS/OnlineShopping/ShopOnlineSwiftUITest/Models/Product.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "399">
+               </Location>
+               <Location
+                  uuid = "369D6EDF-B54F-48AA-84F9-DEE05C4ED11B - e6060b40467a6c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShopOnlineSwiftUITest.ProductApi.getProducts(completionHandler: (Swift.Array&lt;ShopOnlineSwiftUITest.Product&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ShopOnlineSwiftUITest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgebardas/Documents/Projects/iOS/OnlineShopping/ShopOnlineSwiftUITest/Models/Product.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "237">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62C3E42B-3C96-4A4B-8E75-A2BF9342DB7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopOnlineSwiftUITest/Models/Product.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getProducts(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62C3E42B-3C96-4A4B-8E75-A2BF9342DB7D - e6060b40467a6c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShopOnlineSwiftUITest.ProductApi.getProducts(completionHandler: (Swift.Array&lt;ShopOnlineSwiftUITest.Product&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ShopOnlineSwiftUITest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgebardas/Documents/Projects/iOS/OnlineShopping/ShopOnlineSwiftUITest/Models/Product.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "62C3E42B-3C96-4A4B-8E75-A2BF9342DB7D - fa82b050a3cb993f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ShopOnlineSwiftUITest.ProductApi.getProducts(completionHandler: (Swift.Array&lt;ShopOnlineSwiftUITest.Product&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ShopOnlineSwiftUITest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgebardas/Documents/Projects/iOS/OnlineShopping/ShopOnlineSwiftUITest/Models/Product.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6A07C5C-56E5-4986-B315-6962BD1A9A6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopOnlineSwiftUITest/Models/Product.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getProducts(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0257C41-74D3-4EDE-AD7F-950F0BBDB680"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopOnlineSwiftUITest/Models/Product.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getProducts(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

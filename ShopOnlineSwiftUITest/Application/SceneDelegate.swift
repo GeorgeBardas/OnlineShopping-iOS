@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  OnlineShopping
+//  ShopOnlineSwiftUITest
 //
-//  Created by George Bardas on 26/07/2020.
+//  Created by George Bardas on 12/07/2020.
 //  Copyright © 2020 George Bardas. All rights reserved.
 //
 
